@@ -1,5 +1,3 @@
-## 👋 About Me
-
 🏅 *Academician | Researcher | Ph.D, P.Tech., SMIEEE*
 
 🎓 I am a **Senior Lecturer** in the **Faculty of Computing** at **Universiti Malaysia Pahang Al-Sultan Abdullah** since 2016.  
