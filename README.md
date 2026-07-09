@@ -1,4 +1,7 @@
 ## 👋 About Me
+
+🏅 *Academician | Researcher | Ph.D, P.Tech., SMIEEE*
+
 🎓 I am a **Senior Lecturer** in the **Faculty of Computing** at **Universiti Malaysia Pahang Al-Sultan Abdullah** since 2016.  
 
 🔬 My research focuses on **Computer Vision**, **Pattern Recognition**, **Image Processing**, **Machine Learning**, and **Deep Learning**, and I have authored numerous publications across these domains.
