@@ -13,3 +13,5 @@
 - Image Processing
 - Machine Learning
 - Deep Learning
+
+📧 email me at <a href="afakhri@ump.edu.my">afakhri@ump.edu.my</a>
