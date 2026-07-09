@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**ahfan-02/ahfan-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a **Senior Lecturer** in the **Faculty of Computing** at **Universiti Malaysia Pahang Al-Sultan Abdullah** since 2016.
 
-Here are some ideas to get you started:
+🔬 My research focuses on **Computer Vision**, **Pattern Recognition**, **Image Processing**, **Machine Learning**, and **Deep Learning**, and I have authored numerous publications across these domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 I received my **PhD in Computer Science** from Universiti Sultan Zainal Abidin in 2016, specializing in Pattern Recognition, during which I contributed to research projects involving web crawler development and data-matching algorithms under my supervising professor. I hold a **Master's degree in Engineering (Manufacturing)** from the Faculty of Manufacturing Engineering, Universiti Malaysia Pahang (2011), and a **Bachelor's degree in Information Technology** from Universiti Malaya (2007).
+
+### 🎯 Research Interests
+
+- Computer Vision
+- Pattern Recognition
+- Image Processing
+- Machine Learning
+- Deep Learning
